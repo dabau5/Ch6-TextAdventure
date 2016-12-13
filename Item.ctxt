@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=desc
+comment0.target=Item(java.lang.String)
+comment0.text=\r\n\ Creates\ an\ item\ with\ a\ description\ "description".\r\n\ @param\ desc\ \ The\ item's\ description\r\n
+comment1.params=name
+comment1.target=void\ printLook(java.lang.String)
+comment1.text=\r\n\ Prints\ out\ a\ formatted\ description\ of\ the\ item\r\n\ @param\ name\ \ The\ name\ of\ the\ item\r\n
+comment2.params=desc
+comment2.target=void\ setDesc(java.lang.String)
+comment2.text=\r\n\ Sets\ the\ description\ of\ the\ item\r\n\ @param\ desc\ \ The\ description\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Returns\ the\ description\ of\ the\ item\r\n\ @return\ \ The\ description\r\n
+numComments=4

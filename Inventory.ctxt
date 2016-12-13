@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Inventory()
+comment0.text=\r\n\ Creates\ new\ HashMap\ that\ stores\ items\r\n
+comment1.params=s\ t
+comment1.target=void\ addInv(java.lang.String,\ Item)
+comment1.text=\r\n\ Adds\ an\ item\ to\ the\ inventory\ HashMap\r\n\ \r\n\ @param\ \ s\ \ The\ key\ for\ the\ map\ (name\ of\ item)\r\n\ @param\ \ t\ \ The\ item\ object\ being\ added\ \r\n
+comment2.params=s
+comment2.target=void\ delInv(java.lang.String)
+comment2.text=\r\n\ Deletes\ an\ item\ from\ the\ inventory\ HashMap\r\n\ \r\n\ @param\ \ s\ \ The\ key\ for\ the\ map\ (name\ of\ item)\r\n
+comment3.params=t
+comment3.target=Item\ getItem(java.lang.String)
+comment3.text=\r\n\ Get\ an\ item\ from\ the\ inventory\r\n\ @param\ t\ \ The\ name\ of\ the\ item\r\n\ @return\ \ The\ item\ object\r\n
+comment4.params=t
+comment4.target=boolean\ itemExists(java.lang.String)
+comment4.text=\r\n\ Checks\ if\ item\ exists\ in\ the\ inventory\r\n\ @param\ t\ \ The\ item\ name\r\n\ @return\ \ Boolean\ that\ tells\ if\ the\ item\ exists\ in\ the\ inventory\r\n
+comment5.params=
+comment5.target=java.lang.String\ getInv()
+comment5.text=\r\n\ Gets\ the\ list\ of\ items\ in\ the\ inventory\r\n\ \r\n\ @return\ \ String\ formatted\ with\ all\ item\ names\r\n
+numComments=6

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=message
+comment0.target=Person(java.lang.String)
+comment0.text=\r\n\ Contructor\ that\ specifies\ a\ message\ for\ the\ person\ to\ say\r\n\ @param\ message\ The\ message\ for\ the\ person\r\n
+comment1.params=change
+comment1.target=void\ changeMessage(java.lang.String)
+comment1.text=\r\n\ Changes\ message\ for\ the\ person\ to\ say\r\n\ @param\ change\ New\ message\ for\ person\ to\ say\r\n
+comment2.params=bool
+comment2.target=void\ setProf(boolean)
+comment2.text=\r\n\ Sets\ if\ the\ person\ is\ a\ professor\r\n\ @param\ bool\ \ True/false\ if\ person\ is\ a\ professor\r\n
+comment3.params=bool
+comment3.target=void\ setRemove(boolean)
+comment3.text=\r\n\ Sets\ if\ the\ should\ be\ removed\ after\ being\ spoken\ to\r\n\ @param\ bool\ \ True/false\ if\ person\ should\ be\ removed\r\n
+comment4.params=
+comment4.target=boolean\ isProf()
+comment4.text=\r\n\ Checks\ if\ the\ person\ is\ a\ professor\r\n\ @return\ \ Boolean\ if\ the\ person\ is\ a\ professor\r\n
+comment5.params=
+comment5.target=boolean\ isRemoved()
+comment5.text=\r\n\ Checks\ if\ the\ person\ should\ be\ removed\ after\ being\ spoken\ to\r\n\ @return\ \ Boolean\ if\ the\ person\ should\ be\ removed\r\n
+comment6.params=
+comment6.target=java.lang.String\ getMessage()
+comment6.text=\r\n\ Returns\ the\ message\ for\ the\ person\ to\ say\r\n\ @return\ The\ person's\ message\r\n
+numComments=7
